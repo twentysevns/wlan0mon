@@ -5,6 +5,7 @@
 #Installations
 
 cd wlan0mon && ls
+
 chmod +x stop start
 
 #To run and stop it
