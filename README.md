@@ -10,6 +10,7 @@ chmod +x stop start
 #To run and stop it
 
 sudo ./start
+
 sudo ./stop
 
 #Note!!! this scripts run as root "sudo su" and need requirrement.
