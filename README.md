@@ -2,13 +2,13 @@
 #We love open sources
 
 #Installations
-cd wlan0mon && ls
-chmod +x stop start
+#cd wlan0mon && ls
+#chmod +x stop start
 
 #to run it
-sudo ./start
+#sudo ./start
 
 #to stop it
-sudo ./stop
+#sudo ./stop
 
 # Note!!! this scripts need as root "sudo su"
