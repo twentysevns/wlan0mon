@@ -1,14 +1,21 @@
-#wlan0mon
 #We love open sources
+#unable wlan0
 
 #Installations
-#cd wlan0mon && ls
-#chmod +x stop start
 
-#to run it
-#sudo ./start
+cd wlan0mon && ls
+chmod +x stop start
 
-#to stop it
-#sudo ./stop
 
-# Note!!! this scripts need as root "sudo su"
+#To run it
+( sudo ./start )
+
+
+#To stop it
+( sudo ./stop )
+
+#Note!!! this scripts run as root "sudo su" and need requirrement.
+if you run this scripts, and you try to unable wifi! will can't be work! 
+Because your wifi driver run as monitor, so if you can unable back to normal
+you just stop his scripts
+
