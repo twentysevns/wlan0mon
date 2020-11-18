@@ -13,5 +13,5 @@ if you run this scripts, and you try to unable wifi! will can't be work!
 Because your wifi driver run as monitor, so if you want to unable again and back to normal
 you just stop his scripts.**
 
-For android with compatibility.
+**For android with compatibility.**
 
