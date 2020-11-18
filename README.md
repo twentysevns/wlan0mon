@@ -1,7 +1,3 @@
-#We love open sources
-
-#unable wlan0
-
 #Installations
 
 cd wlan0mon && ls
