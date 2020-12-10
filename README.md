@@ -1,11 +1,11 @@
-**Android with Snapdragon only**
+# **Android** Snapdragon only!
 
 **Note!!!**
-*Should do run as root **" sudo su "**.*
+*Should do run as root **sudo su**.*
 
-*if you run this scripts, and you try to enable wifi! 
+*If you run this scripts, and you try to enable wifi! 
 Will can't be work! 
-Because your internal driver run as monitor, 
+Because your internal driver **"wlan0"** run as monitor, 
 so if you want to enable again and back to normal just stop his scripts.*
 
 
@@ -22,7 +22,7 @@ so if you want to enable again and back to normal just stop his scripts.*
  ```./stop.sh```
 
 
-**Credit**
+***Credit***
 
-https://github.com/ripunk/wlan0mon
+*https://github.com/ripunk/wlan0mon*
 
