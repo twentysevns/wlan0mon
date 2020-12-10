@@ -30,6 +30,7 @@ just* ```./stop.sh``` *his scripts.*
 *https://github.com/ripunk/wlan0mon*
 
 
-***Getting random boot after ```./start.sh```?
-Your firmware or kernel uncompatible maybe...
-idk cuz i don't make it scripts :)***
+*Getting random boot after* ```./start.sh```?
+*Your firmware or kernel uncompatible with this maybe...
+idk cuz i don't make it's scripts! :)* 
+*but, dont worry after boot it doesnt make any change to your wifi.*
