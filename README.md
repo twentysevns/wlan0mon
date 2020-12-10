@@ -11,7 +11,7 @@ Because your internal driver **"wlan0"** run as monitor,
 so if you want to enable again and back to normal 
 just* ```./stop.sh``` *his scripts.*
 
-
+#
 ***( Installations )***
 
  ```sudo su```
@@ -19,18 +19,17 @@ just* ```./stop.sh``` *his scripts.*
  ```cd wlan0mon```
 
  ```chmod +x stop.sh start.sh```
-
+#
 ***( To run and stop )***
  
  ```./start.sh```
 
- ```./stop.sh```
-
-
+ ```./stop.sh``` 
+#
 ***( Credit )***
 
 *https://github.com/ripunk/wlan0mon*
-
+#
 ***( Little Problem )***
 
 *Getting random boot after* ```./start.sh```?
