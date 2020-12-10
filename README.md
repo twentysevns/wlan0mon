@@ -16,8 +16,6 @@ just* ```./stop.sh``` *his scripts.*
 
  ```sudo su```
 
-
-
  ```chmod +x stop.sh start.sh```
 
 ***( To run and stop )***
