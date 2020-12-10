@@ -3,7 +3,7 @@
 for Snapdragon Device ( android ).*
 #
 #
-***Note!!!***
+***( Important! )***
 
 *Run as root* ```sudo su```
 
