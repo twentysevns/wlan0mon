@@ -1,5 +1,5 @@
 # Wlan0mon
-*Enableling internal wifi "wlan0" to monitoring,
+*Enableling internal wifi **"wlan0"** to monitoring,
 for Snapdragon Device ( android ).*
 
 **Note!!!**
