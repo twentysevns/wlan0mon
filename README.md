@@ -1,11 +1,10 @@
 # Wlan0mon
 *Enableling internal wifi **"wlan0"** to monitoring,
 for Snapdragon Device ( android ).*
-
-**Note!!!**
+#
+# Note!!!
 *Run as root* ```sudo su```
-
-*If you run this scripts, and you try to enable wifi! 
+*If you run this scripts, and you try to use wifi! 
 Will can't be work! 
 Because your internal driver **"wlan0"** run as monitor, 
 so if you want to enable again and back to normal 
