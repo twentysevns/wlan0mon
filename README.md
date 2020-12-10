@@ -16,6 +16,8 @@ just* ```./stop.sh``` *his scripts.*
 
  ```sudo su```
 
+ ```cd wlan0mon'''
+
  ```chmod +x stop.sh start.sh```
 
 ***( To run and stop )***
@@ -29,6 +31,7 @@ just* ```./stop.sh``` *his scripts.*
 
 *https://github.com/ripunk/wlan0mon*
 
+***( Little Problem )***
 
 *Getting random boot after* ```./start.sh```?
 *Your firmware or kernel uncompatible with this maybe...
