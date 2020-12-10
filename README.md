@@ -5,9 +5,9 @@ for Snapdragon Device ( android ).*
 #
 ***( Important! )***
 
-*Run as root* ```sudo su```
+- *Run as root* ```sudo su```
 
-*If you run this scripts and you try to use wifi! 
+- *If you run this scripts and you try to use wifi! 
 Will can't be work! 
 Because your internal driver **"wlan0"** run as monitor, 
 so if you want to enable again and back to normal 
@@ -15,17 +15,14 @@ just* ```./stop.sh``` *his scripts.*
 #
 ***( Installations )***
 
- ```sudo su```
-
- ```cd wlan0mon```
-
- ```chmod +x stop.sh start.sh```
+- ```sudo su```
+- ```cd wlan0mon```
+- ```chmod +x stop.sh start.sh```
 #
 ***( To run and stop )***
  
- ```./start.sh```
-
- ```./stop.sh``` 
+- ```./start.sh```
+- ```./stop.sh``` 
 #
 ***( Credit )***
 
@@ -33,7 +30,7 @@ just* ```./stop.sh``` *his scripts.*
 #
 ***( Little Problem )***
 
-*Getting random boot after* ```./start.sh```?
+- *Getting random boot after* ```./start.sh```?
 *Your firmware or kernel uncompatible with this maybe...
 idk cuz i don't make it's scripts! :)* 
 *but, dont worry after boot it doesnt make any change to your wifi.*
