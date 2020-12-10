@@ -16,6 +16,8 @@ just* ```./stop.sh``` *his scripts.*
 
  ```sudo su```
 
+ ```cd wlan0mon```
+
  ```chmod +x stop.sh start.sh```
 
 ***( To run and stop )***
