@@ -1,6 +1,6 @@
 # Wlan0mon
 *Enableling internal wifi **"wlan0"** to monitoring,
-for Snapdragon Device ( android ).*
+for Qualcomm Device ( android ).*
 #
 #
 ***( Important! )***
@@ -17,12 +17,12 @@ just* ```./stop.sh``` *his scripts.*
 
 1. ```sudo su```
 2. ```cd wlan0mon```
-3. ```chmod +x stop.sh start.sh```
+3. ```chmod +x stopwlan0 startwlan0```
 #
 ***( To run and stop )***
  
-- ```./start.sh```
-- ```./stop.sh``` 
+- ```./startwlan0```
+- ```./stopwlan0``` 
 #
 ***( Credit )***
 
@@ -31,6 +31,6 @@ just* ```./stop.sh``` *his scripts.*
 ***( Little Problem )***
 
 - *Getting random boot after* ```./start.sh```?
-*Your firmware or kernel uncompatible with this maybe...
+*Your firmware or kernel uncompatibled maybe...
 idk cuz i don't make it's scripts! :)* 
-*but, dont worry after boot it doesnt make any change to your wifi.*
+*but, dont worry after boot it, doesnt make any change to your wifi.*
