@@ -11,7 +11,7 @@ for Qualcomm Device ( android ).*
 Will can't be work! 
 Because your internal driver **"wlan0"** run as monitor, 
 so if you want to enable again and back to normal 
-just* ```./stop.sh``` *his scripts.*
+just* ```./stopwlan0``` *his scripts.*
 #
 ***( Installations )***
 
@@ -30,7 +30,7 @@ just* ```./stop.sh``` *his scripts.*
 #
 ***( Little Problem )***
 
-- *Getting random boot after* ```./start.sh```?
+- *Getting random boot after* ```./startwlan0```?
 *Your firmware or kernel uncompatibled maybe...
 idk cuz i don't make it's scripts! :)* 
 *but, dont worry after boot it, doesnt make any change to your wifi.*
