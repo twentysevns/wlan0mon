@@ -30,6 +30,6 @@ just* ```./stopwlan0``` *his scripts.*
 ***( Little Problem )***
 
 - *Getting random boot after* ```./startwlan0```?
-* Maybe, it cuz your firmware or kernel uncompatible to support monitor mode
-idk cuz i don't make this scripts! :)* 
-*but, dont worry after boot to system, thats not make any change to your wifi ( normal ).*
+* Maybe, it cuz your firmware or kernel uncompatible to support monitor mode,
+idk cuz i don't make this scripts! :).* 
+*but, dont worry after boot to system, thats not make any change to your wifi ( normal ), so you should try to find or compiled kernel by yourself*
