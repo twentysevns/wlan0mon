@@ -1,6 +1,5 @@
 # Wlan0mon
-*Enableling internal wifi **"wlan0"** to monitoring,
-for Qualcomm Device ( android ).*
+*Enabling monitor mode for Qualcomm Device ( android ).*
 #
 #
 ***( Important! )***
